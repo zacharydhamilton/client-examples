@@ -1,0 +1,36 @@
+{
+  "type": "record",
+  "name": "ColorAvro",
+  "version": "1",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string",
+      "doc": "The 'name' of the color"
+    },
+    {
+      "name": "opacity",
+      "type": "float",
+      "doc": "The opacity of the color",
+      "default": 1.0
+    },
+    {
+      "name": "brightness",
+      "type": "int",
+      "doc": "The brightness of the color",
+      "default": 100
+    },
+    {
+      "name": "tint",
+      "type": "int",
+      "doc": "The tint of the color",
+      "default": 100
+    },
+    {
+      "name": "saturation",
+      "type": "int",
+      "doc": "The saturation of the color",
+      "default": 100
+    }
+  ]
+}

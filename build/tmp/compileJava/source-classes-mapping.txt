@@ -1,0 +1,12 @@
+clients/producers/ColorProducerExample.java
+ clients.producers.ColorProducerExample
+clients/avro/ColorAvro.java
+ clients.avro.ColorAvro
+ clients.avro.ColorAvro$1
+ clients.avro.ColorAvro$Builder
+clients/producers/ProducerConfigExample.java
+ clients.producers.ProducerConfigExample
+clients/consumers/ConsumerConfigExample.java
+ clients.consumers.ConsumerConfigExample
+clients/consumers/ColorConsumerExample.java
+ clients.consumers.ColorConsumerExample
